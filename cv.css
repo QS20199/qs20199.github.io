@@ -89,7 +89,7 @@ h5{ height:30px;padding-top:6px; font-size:14px; width:155px; background:url(/im
 .deleteblk{ width:auto; padding-left:50px;  padding-top:10px; }
 .deleteblk a{ text-decoration:underline; color:#003366; font-size:12px; font-weight:normal; margin-left:25px}
 .deleteblk a:hover,a:active,a:focus{color:#0066FF;}
-.photo{margin-left:10px; padding:2px; border:1px solid #000; width:140px; height:180px}
+.photo{margin-left:10px; padding:2px; width:140px; height:180px}
 .img_right{ float:right; background:url(/img/close.gif) no-repeat 0 1px scroll; width:25px; height:26px}
 .save{ padding-top:20px; padding-bottom:20px; text-align:center;}
 .btn_save{height:32px;width:56px; background:url(/img/btn_save.gif) no-repeat scroll 0 2px; border:medium none; font-size:14px; font-weight:bold;cursor:pointer}
