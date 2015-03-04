@@ -89,7 +89,7 @@ h5{ height:30px;padding-top:6px; font-size:14px; width:155px; background:url(/im
 .deleteblk{ width:auto; padding-left:50px;  padding-top:10px; }
 .deleteblk a{ text-decoration:underline; color:#003366; font-size:12px; font-weight:normal; margin-left:25px}
 .deleteblk a:hover,a:active,a:focus{color:#0066FF;}
-.photo{margin-left:10px; padding:2px; width:140px; height:180px}
+.photo{margin-left:10px; padding:2px; width:90px;}
 .img_right{ float:right; background:url(/img/close.gif) no-repeat 0 1px scroll; width:25px; height:26px}
 .save{ padding-top:20px; padding-bottom:20px; text-align:center;}
 .btn_save{height:32px;width:56px; background:url(/img/btn_save.gif) no-repeat scroll 0 2px; border:medium none; font-size:14px; font-weight:bold;cursor:pointer}
@@ -172,11 +172,11 @@ h5{ height:30px;padding-top:6px; font-size:14px; width:155px; background:url(/im
 		    line-height: 50px;
 		    font-size: 30px;
 }
-.p_title{ font-size:14px; margin-top:20px; clear:both; width:100%; border-bottom:2px solid #d2d2d2; line-height:32px; height:32px; font-weight:bold;}
+.p_title{ font-size:14px; clear:both; width:100%; border-bottom:2px solid #d2d2d2; line-height:32px; height:32px; font-weight:bold;}
 .p_content{ padding:10px 40px 40px 40px;border:1px solid #a7a7a7;border-top:none; _width:858px;  background-color:#fff}
 .hr{ margin:10px 0;*margin:0; color:#e0e0e0}
 .p_table2{margin:10px 0;color:#444;width:100%;border-collapse:collapse;}
-.p_table2 td{padding:8px 0;line-height:16px;vertical-align:top;}
+.p_table2 td{padding:5px 0;line-height:16px;vertical-align:top;}
 .p_table2 td.item{padding-right:5px;font-weight:bold;text-align:right;white-space: nowrap;}
 
 /*footer*/
@@ -251,8 +251,15 @@ h5{ height:30px;padding-top:6px; font-size:14px; width:155px; background:url(/im
 	color: #c80213;
 	overflow: hidden;
 }
-.p_table2 tbody tr{
-}
 p {
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 }
+
+#personal_msg p{
+	margin-bottom: 9px;
+	width: 490px;
+}
+
+/*.p_head,.p_content{
+	border:0;
+}*/
