@@ -253,13 +253,13 @@ h5{ height:30px;padding-top:6px; font-size:14px; width:155px; background:url(/im
 }
 p {
 	margin-bottom: 5px;
+	width: 495px;
 }
 
 #personal_msg p{
 	margin-bottom: 9px;
-	width: 490px;
 }
 
-/*.p_head,.p_content{
+.p_head,.p_content{
 	border:0;
-}*/
+}
