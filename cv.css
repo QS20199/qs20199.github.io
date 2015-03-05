@@ -176,7 +176,7 @@ h5{ height:30px;padding-top:6px; font-size:14px; width:155px; background:url(/im
 .p_content{ padding:10px 40px 40px 40px;border:1px solid #a7a7a7;border-top:none; _width:858px;  background-color:#fff}
 .hr{ margin:10px 0;*margin:0; color:#e0e0e0}
 .p_table2{margin:10px 0;color:#444;width:100%;border-collapse:collapse;}
-.p_table2 td{padding:5px 0;line-height:16px;vertical-align:top;}
+.p_table2 td{padding:4px 0;line-height:16px;vertical-align:top;}
 .p_table2 td.item{padding-right:5px;font-weight:bold;text-align:right;white-space: nowrap;}
 
 /*footer*/
@@ -253,13 +253,17 @@ h5{ height:30px;padding-top:6px; font-size:14px; width:155px; background:url(/im
 }
 p {
 	margin-bottom: 5px;
-	width: 495px;
 }
 
 #personal_msg p{
-	margin-bottom: 9px;
+	margin-bottom: 8px;
+	width: 502px;
 }
 
 .p_head,.p_content{
 	border:0;
+}
+
+.long{
+	width: 490px;
 }
