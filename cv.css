@@ -162,7 +162,7 @@ h5{ height:30px;padding-top:6px; font-size:14px; width:155px; background:url(/im
 
 /*预览*/
 .p_main{ width:800px; height:auto; margin-left:auto; margin-right:auto; background:#eee; font-size:12px; }
-.p_head{padding:10px;_padding-bottom:10px;color:#666;text-align:right;background-color:#a5151e ;border:1px solid #A7A7A7; border-bottom:1px solid #EEE; line-height:25px;}
+.p_head{padding:3px;_padding-bottom:10px;color:#666;text-align:right;background-color:#a5151e ;border:1px solid #A7A7A7; border-bottom:1px solid #EEE; line-height:25px;}
 .p_head strong{color: #FFFFFF;text-align: left;}
 .p_head em{padding-left:2px;font-style:normal;color:#FFFFFF;}
 .p_head_name{
@@ -272,7 +272,7 @@ p {
 }
 
 li{
-	margin: 3px 12px; 
+	margin: 2px 12px; 
 }
 li:first-child{
 	margin-top: 0;
